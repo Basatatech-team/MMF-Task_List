@@ -52,6 +52,12 @@
   - Configure the "Connect" module settings.
   - Configure "Connect" module specific configurations.
 
+#### 8. Explore Needed Technologies
+
+- Http Web Client
+
+- WebSocket communication and connect / listener handshake
+
 ## Design the Service Layer for Connect
 
 #### 1. Design Adding Fund Service: (happy scenario & test cases)
